@@ -4,4 +4,4 @@
 
 ### Hi there，I'm [wangJiaLun](https://wangjialun.top/about/index.html) 👋
 
-[![CSDN]https://img.shields.io/badge/-csdn-green)](https://blog.csdn.net/weixin_45141382) 
+<!-- [![CSDN](https://img.shields.io/badge/-csdn-green)](https://blog.csdn.net/weixin_45141382)  -->
